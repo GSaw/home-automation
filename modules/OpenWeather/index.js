@@ -21,7 +21,7 @@ function OpenWeather (id, controller) {
 
 inherits(OpenWeather, AutomationModule);
 
-_module = OpenWeather;
+_module = OpenWeather; 
 
 // ----------------------------------------------------------------------------
 // --- Module instance initialized
